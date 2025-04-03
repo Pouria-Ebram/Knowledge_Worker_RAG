@@ -1,11 +1,5 @@
 # Expert Knowledge Worker
 
-## Author: [Pouria Ebrahimnezhad]
-
-**Date:** [2025-01-25]
-
----
-
 ## 📌 Overview
 
 The **Expert Knowledge Worker** is an AI-powered conversational chatbot designed to answer questions about a fictional company, **InsureLLM**, and its products, policies, and employees.
@@ -29,8 +23,9 @@ This project implements **Retrieval-Augmented Generation (RAG)** to enhance the 
 
 ## 📸 Screenshot of Application Output
 
-\
-*(Replace the above path with the actual location of the image in your repository.)*
+Below is an example of the generated output from the chatbot:
+
+![Output Example](images/output.png)
 
 ---
 
@@ -76,6 +71,11 @@ dotenv
 chromadb
 faiss-cpu  # Optional if using FAISS
 ```
+---
+
+### Author: Pouria Ebrahimnezhad
+
+**Date:** 2025-01-25
 
 ---
 
