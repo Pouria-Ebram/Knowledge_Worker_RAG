@@ -77,6 +77,12 @@ faiss-cpu  # Optional if using FAISS
 
 **Date:** 2025-01-25
 
+## References
+
+The dataset and some of the code I used in this project can be found and referenced in the following repository:
+
+[LLM Engineering by Ed Donner](https://github.com/ed-donner/llm_engineering)
+
 ---
 
 ## 🤝 Contributions
